@@ -24,6 +24,8 @@ https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/i
   https://github.com/witzakr/RIZON/blob/8c31b4ae3b9423c177c9c731641e64cfae7d6940/index.html#L47-L51
     
 - Validating my code
+  HTML: ![image](https://github.com/witzakr/RIZON/assets/78391782/5f45c78b-4b09-4f20-9d4b-3005d6315ddd)
+
 - watching Flexbox tutorials and looking for sources explaining it (still in progress)
 -----------------------------------------------------
 Summary:

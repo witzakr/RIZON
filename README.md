@@ -17,15 +17,12 @@ https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/i
     
 - using a font that I consider the best, straying a bit from the original design:
   
-https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/css/index.css#L1C1-L5C4
 
 - using semantic elements instead of div:
   
-https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/index.html#L10C1-L24C10
 
 - putting images in an image container:
   
-https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/index.html#L47-L51
     
 - Validating my code
 - watching Flexbox tutorials and looking for sources explaining it (still in progress)

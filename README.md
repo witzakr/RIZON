@@ -13,7 +13,6 @@ Challenges faced:
 Solutions: 
 - putting text elements in a text container:
 
-  <!--
    <figure class="text-container">
         <h1>RIZON│Electric Medium Duty</h1>
         <h3>
@@ -28,7 +27,6 @@ Solutions:
     
 - using a font that I consider the best, straying a bit from the original design:
 
-<!--
   body {
     margin: 0;
     padding: 0;
@@ -37,7 +35,6 @@ Solutions:
 
 - using semantic elements instead of <div>:
 
-<!--
   <header>
     <nav class="navbar">
         <img src="images/logo-white.png" alt="Logo">

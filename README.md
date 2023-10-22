@@ -12,8 +12,7 @@ Challenges faced:
 -----------------------------------------------------
 Solutions: 
 - putting text elements in a text container:
-  
-https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/index.html#L27C1-L40C14
+https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/index.html#L27-L40
     
 - using a font that I consider the best, straying a bit from the original design:
   

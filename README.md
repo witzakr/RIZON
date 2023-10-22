@@ -15,7 +15,7 @@ Solutions:
 https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/index.html#L27-L40
     
 - using a font that I consider the best, straying a bit from the original design:
-  
+  https://github.com/witzakr/RIZON/blob/82947e63ec54a42a46bf3688f1a0a358d3a632fa/css/index.css#L1-L5
 
 - using semantic elements instead of div:
   

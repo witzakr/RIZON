@@ -19,7 +19,7 @@ https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/i
   
 https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/css/index.css#L1C1-L5C4
 
-- using semantic elements instead of <div>:
+- using semantic elements instead of div:
   
 https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/index.html#L10C1-L24C10
 

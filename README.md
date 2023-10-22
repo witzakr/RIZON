@@ -12,41 +12,16 @@ Challenges faced:
 -----------------------------------------------------
 Solutions: 
 - putting text elements in a text container:
-https://github.com/witzakr/RIZON/blob/1bc11c6ee6bcdf8863b8e590a9994813f69a2dd0/index.html#L11-L24
+https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/index.html#L27C1-L40C14
     
 - using a font that I consider the best, straying a bit from the original design:
-
-  body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  }
+https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/css/index.css#L1C1-L5C4
 
 - using semantic elements instead of <div>:
-
-  <header>
-    <nav class="navbar">
-        <img src="images/logo-white.png" alt="Logo">
-        <menu class="nav-links">
-            <li><a href="#">Products & Services</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
-            <li><a href="#">Press & Events</a></li>
-            <li><a href="#">Rizon Journal</a></li>
-        </menu>
-        <figure class="location">
-            <a href="#">Find a dealer</a>
-        </figure>
-    </nav>
-</header>
+https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/index.html#L10C1-L24C10
 
 - putting images in an image container:
-
-    <figure class="image-container2">
-        <img src="images/contact.jpg" alt="">
-        <img src="images/brochure.jpg" alt="">
-        <img src="images/truck.jpg" alt="">
-    </figure>
+https://github.com/witzakr/RIZON/blob/94a1a2012f0d038f681af5b0b731600078f48d00/index.html#L47-L51
     
 - Validating my code
 - watching Flexbox tutorials and looking for sources explaining it (still in progress)

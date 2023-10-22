@@ -12,18 +12,7 @@ Challenges faced:
 -----------------------------------------------------
 Solutions: 
 - putting text elements in a text container:
-
-   <figure class="text-container">
-        <h1>RIZON│Electric Medium Duty</h1>
-        <h3>
-            RIZON Truck. Bringing <br>
-            calm to the chaos.
-        </h3>
-        <p>
-            The brand that will make your transition to electric successful. Our trucks <br> 
-            and services are built from REAL industry experience.
-        </p>
-    </figure>
+https://github.com/witzakr/RIZON/blob/1bc11c6ee6bcdf8863b8e590a9994813f69a2dd0/index.html#L11-L24
     
 - using a font that I consider the best, straying a bit from the original design:
 
